@@ -24,6 +24,27 @@ void TestSeqList1()
 
 	SeqListPushFront(&s, -1);
 	SeqListPrint(&s);
+
+	SeqListPopFront(&s);
+	SeqListPrint(&s);
+
+	SeqListInsert(&s, 3, 6);
+	SeqListPrint(&s);
+
+	SeqListErase(&s, 3);
+	SeqListPrint(&s);
+
+	SeqListPushBack(&s, 1);
+	SeqListPrint(&s);
+
+	int pos = SeqListFind(&s, 5);
+	if (pos != -1)
+	{
+		SeqListErase(&s, pos);
+	}
+	SeqListPrint(&s);
+
+	SeqListDestory(&s);
 }
 int main()
 {

@@ -31,6 +31,8 @@ typedef struct SeqList
 void SeqListInit(SL* ps);
 //打印
 void SeqListPrint(SL*ps);
+//检查是否需要扩容
+void SeqListCheckCapacity(SL*ps);
 //尾插尾删  头插头删
 void SeqListPushBack(SL* ps, SLDataType x);
 void SeqListPopBack(SL* ps);
@@ -39,3 +41,7 @@ void SeqListPopFront(SL* ps);
 //任意位置的插入删除
 void SeqListInsert(SL* ps,int pos, SLDataType x);//insert - 插入
 void SeqListErase(SL* ps,int pos);//erase - 擦掉,删除
+//查找
+int SeqListFind(SL* ps, SLDataType x);
+//释放
+void SeqListDestory(SL* ps);
