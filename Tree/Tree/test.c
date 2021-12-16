@@ -102,11 +102,11 @@ void LevelOrder(BTNode* root)
 		BTNode* front = QueueFront(&q);
 		QueuePop(&q);
 		printf("%c ", front->data);
-		if (root->left)
+		if (front->left)
 		{
 			Queuepush(&q, front->left);
 		}
-		if (root->right)
+		if (front->right)
 		{
 			Queuepush(&q, front->right);
 		}
