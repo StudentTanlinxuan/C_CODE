@@ -90,6 +90,7 @@ int TreeLeafSize(BTNode* root)
 		return 1;
 	return TreeLeafSize(root->left) + TreeLeafSize(root->right);
 }
+//层序遍历
 void LevelOrder(BTNode* root)
 {
 	//核心思路：上一层出的时候带下一层节点进
