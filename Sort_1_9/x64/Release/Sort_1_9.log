@@ -1,0 +1,7 @@
+﻿  Sort.c
+D:\2022C_code\Sort_1_9\Sort_1_9\Sort.c(295,12): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Sort_1_9.vcxproj -> D:\2022C_code\Sort_1_9\x64\Release\Sort_1_9.exe
