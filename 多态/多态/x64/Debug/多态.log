@@ -1,0 +1,3 @@
+﻿  02 多态案例一 - 计算器类.cpp
+D:\2022C_code\多态\多态\02 多态案例一 - 计算器类.cpp(27): warning C4715: “Calculator::getResult”: 不是所有的控件路径都返回值
+  多态.vcxproj -> D:\2022C_code\多态\x64\Debug\多态.exe
