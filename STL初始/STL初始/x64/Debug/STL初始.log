@@ -1,0 +1,3 @@
+﻿  3 vector容器嵌套容器.cpp
+D:\2022C_code\STL初始\STL初始\3 vector容器嵌套容器.cpp(1,1): warning C4828: 文件包含在偏移 0x49b 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  STL初始.vcxproj -> D:\2022C_code\STL初始\x64\Debug\STL初始.exe
