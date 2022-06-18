@@ -1,0 +1,42 @@
+﻿  7 set容器排序.cpp
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(66,9): error C2061: 语法错误: 标识符“string”
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(72,9): error C3646: “m_Name”: 未知重写说明符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(72,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(68,9): error C2039: "m_Name": 不是 "Person" 的成员
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(63): message : 参见“Person”的声明
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(68,18): error C2065: “name”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(69,17): error C2065: “age”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(88,2): error C2065: “set”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(88,6): error C2275: “Person”: 应为表达式而不是类型
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(88,29): error C2065: “s”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(88,14): error C2275: “comparePerson”: 应为表达式而不是类型
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(90,24): error C2661: “Person::Person”: 没有重载函数接受 2 个参数
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(91,24): error C2661: “Person::Person”: 没有重载函数接受 2 个参数
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(92,24): error C2661: “Person::Person”: 没有重载函数接受 2 个参数
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(93,24): error C2661: “Person::Person”: 没有重载函数接受 2 个参数
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(95,2): error C2065: “s”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(96,2): error C2065: “s”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(97,2): error C2065: “s”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(98,2): error C2065: “s”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,7): error C2065: “set”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,11): error C2275: “Person”: 应为表达式而不是类型
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,35): error C2039: "iterator": 不是 "`global namespace'" 的成员
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,44): error C2065: “iterator”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,19): error C2275: “comparePerson”: 应为表达式而不是类型
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,44): error C2146: 语法错误: 缺少“;”(在标识符“it”的前面)
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,47): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,47): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,47): error C2059: 语法错误:“=”
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,60): error C2065: “it”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,66): error C2065: “s”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,75): error C2065: “it”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(100,79): error C2059: 语法错误:“)”
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(102,3): error C2065: “cout”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(102,27): error C2065: “it”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(102,58): error C2065: “it”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(102,71): error C2065: “endl”: 未声明的标识符
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(102,75): error C2059: 语法错误:“;”
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(104,1): error C2059: 语法错误:“}”
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(104,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(105,12): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\2022C_code\STL容器 - set容器 - 2\STL容器 - set容器 - 2\7 set容器排序.cpp(105,12): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
