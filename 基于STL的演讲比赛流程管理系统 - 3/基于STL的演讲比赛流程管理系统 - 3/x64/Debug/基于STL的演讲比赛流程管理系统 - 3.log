@@ -1,0 +1,12 @@
+﻿  speechManager.cpp
+D:\2022C_code\基于STL的演讲比赛流程管理系统 - 3\基于STL的演讲比赛流程管理系统 - 3\speechManager.cpp(128,20): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\2022C_code\基于STL的演讲比赛流程管理系统 - 3\基于STL的演讲比赛流程管理系统 - 3\speechManager.cpp(172,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\基于STL的演讲比赛流程管理系统 - 3\基于STL的演讲比赛流程管理系统 - 3\speechManager.cpp(224,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\基于STL的演讲比赛流程管理系统 - 3\基于STL的演讲比赛流程管理系统 - 3\speechManager.cpp(373,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  演讲比赛流程管理系统.cpp
+  正在生成代码...
+  基于STL的演讲比赛流程管理系统 - 3.vcxproj -> D:\2022C_code\基于STL的演讲比赛流程管理系统 - 3\x64\Debug\基于STL的演讲比赛流程管理系统 - 3.exe
