@@ -1,0 +1,3 @@
+﻿  1 数组 - 移动零.cpp
+D:\2022C_code\test_7_23\test_7_23\1 数组 - 移动零.cpp(17,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  test_7_23.vcxproj -> D:\2022C_code\test_7_23\x64\Debug\test_7_23.exe
