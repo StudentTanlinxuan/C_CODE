@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "机房预约系统 - 3", "机房预约系统 - 3\机房预约系统 - 3.vcxproj", "{58897841-D757-4DEA-A205-06ADE20CFEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58897841-D757-4DEA-A205-06ADE20CFEFB}.Debug|x64.ActiveCfg = Debug|x64
+		{58897841-D757-4DEA-A205-06ADE20CFEFB}.Debug|x64.Build.0 = Debug|x64
+		{58897841-D757-4DEA-A205-06ADE20CFEFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{58897841-D757-4DEA-A205-06ADE20CFEFB}.Debug|x86.Build.0 = Debug|Win32
+		{58897841-D757-4DEA-A205-06ADE20CFEFB}.Release|x64.ActiveCfg = Release|x64
+		{58897841-D757-4DEA-A205-06ADE20CFEFB}.Release|x64.Build.0 = Release|x64
+		{58897841-D757-4DEA-A205-06ADE20CFEFB}.Release|x86.ActiveCfg = Release|Win32
+		{58897841-D757-4DEA-A205-06ADE20CFEFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A38B0AE-0F10-4EB1-BDE8-F6E4D9EAF042}
+	EndGlobalSection
+EndGlobal
