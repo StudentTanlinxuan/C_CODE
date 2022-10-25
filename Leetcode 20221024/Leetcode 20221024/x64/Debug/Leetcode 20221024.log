@@ -1,0 +1,4 @@
+﻿  2 三数之和.cpp
+D:\2022C_code\Leetcode 20221024\Leetcode 20221024\2 三数之和.cpp(30,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\Leetcode 20221024\Leetcode 20221024\2 三数之和.cpp(70,37): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+  Leetcode 20221024.vcxproj -> D:\2022C_code\Leetcode 20221024\x64\Debug\Leetcode 20221024.exe
