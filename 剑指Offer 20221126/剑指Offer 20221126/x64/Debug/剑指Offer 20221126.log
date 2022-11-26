@@ -1,0 +1,4 @@
+﻿  1. 剑指Offer 03 数组中重复的数字.cpp
+D:\2022C_code\剑指Offer 20221126\剑指Offer 20221126\1. 剑指Offer 03 数组中重复的数字.cpp(46,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\剑指Offer 20221126\剑指Offer 20221126\1. 剑指Offer 03 数组中重复的数字.cpp(83): warning C4715: “findRepeatNumber”: 不是所有的控件路径都返回值
+  剑指Offer 20221126.vcxproj -> D:\2022C_code\剑指Offer 20221126\x64\Debug\剑指Offer 20221126.exe
