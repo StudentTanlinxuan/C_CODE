@@ -1,0 +1,4 @@
+﻿  2. 剑指Offer 04 二维数组中的查找.cpp
+D:\2022C_code\剑指Offer 20221130\剑指Offer 20221130\2. 剑指Offer 04 二维数组中的查找.cpp(11,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\剑指Offer 20221130\剑指Offer 20221130\2. 剑指Offer 04 二维数组中的查找.cpp(12,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  剑指Offer 20221130.vcxproj -> D:\2022C_code\剑指Offer 20221130\x64\Debug\剑指Offer 20221130.exe
