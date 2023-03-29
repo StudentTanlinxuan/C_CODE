@@ -1,0 +1,8 @@
+﻿  kmp.c
+D:\2022C_code\KMP算法\KMP算法\kmp.c(24,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\KMP算法\KMP算法\kmp.c(24,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\KMP算法\KMP算法\kmp.c(50,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\KMP算法\KMP算法\kmp.c(111,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\KMP算法\KMP算法\kmp.c(137,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2022C_code\KMP算法\KMP算法\kmp.c(138,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  KMP算法.vcxproj -> D:\2022C_code\KMP算法\x64\Debug\KMP算法.exe
